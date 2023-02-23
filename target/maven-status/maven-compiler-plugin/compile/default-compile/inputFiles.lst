@@ -1,0 +1,15 @@
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\repositories\PessoaRepository.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\services\EnderecoService.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\controllers\ControllerEndereco.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\controllers\ControllerPessoa.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\dto\ConsultaEnderecoDTO.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\dto\EnderecoMapper.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\entities\Pessoa.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\repositories\EnderecoRepository.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\dto\CriaEnderecoDTO.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\dto\PessoaMapper.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\entities\Endereco.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\dto\ConsultaPessoaDTO.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\dto\CriaPessoaDTO.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\services\PessoaService.java
+C:\Users\brims\Dev\STS\person_rest\person_rest\src\main\java\brim\PessoaApplication.java

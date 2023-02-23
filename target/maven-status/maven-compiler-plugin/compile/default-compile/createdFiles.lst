@@ -1,0 +1,15 @@
+brim\entities\Pessoa.class
+brim\repositories\PessoaRepository.class
+brim\dto\CriaEnderecoDTO.class
+brim\dto\ConsultaPessoaDTO.class
+brim\dto\EnderecoMapper.class
+brim\dto\PessoaMapper.class
+brim\repositories\EnderecoRepository.class
+brim\controllers\ControllerEndereco.class
+brim\controllers\ControllerPessoa.class
+brim\services\EnderecoService.class
+brim\PessoaApplication.class
+brim\dto\CriaPessoaDTO.class
+brim\dto\ConsultaEnderecoDTO.class
+brim\entities\Endereco.class
+brim\services\PessoaService.class
